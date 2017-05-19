@@ -150,7 +150,7 @@ class Board(object):
         player : object
             An object registered as a player in the current game.
 
-        Returns
+        Returns, m
         -------
         (int, int) or None
             The coordinate pair (row, column) of the input player, or None
